@@ -1,4 +1,4 @@
-package org.example.fabricaAbstrata.fabricaAbstrataLanche;
+package org.example.fabricaAbstrata;
 
 import org.example.acompanhamento.Acompanhamento;
 import org.example.lanche.Lanche;

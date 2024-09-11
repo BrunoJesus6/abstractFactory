@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lanche;
 
 public interface Lanche {
     String preparar();

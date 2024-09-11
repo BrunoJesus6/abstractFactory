@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lanche;
 
 public class Hamburguer implements Lanche {
 

@@ -5,35 +5,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f3176f5-1ef7-4c63-ba9e-d2277626c4ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/acompanhamento/Acompanhamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/acompanhamento/Acompanhamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/acompanhamento/BatataFrita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/acompanhamento/BatataFrita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/acompanhamento/Salada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/acompanhamento/Salada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fabricaAbstrata/FabricaHamburguer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fabricaAbstrata/FabricaHamburguer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fabricaAbstrata/FabricaLanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fabricaAbstrata/FabricaLanche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fabricaAbstrata/FabricaSanduiche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fabricaAbstrata/FabricaSanduiche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lanche/Hamburguer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lanche/Hamburguer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lanche/Lanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lanche/Lanche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/pedido/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/pedido/PedidoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/pedido/PedidoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lcHoTN8IAautdsIommozrt48Id" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/ninho/IdeaProjects/abstractFactory/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.FabricaHamburguerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PedidoFabricaSanduicheTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PedidoTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ninho/IdeaProjects/abstractFactory/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.fabricaAbstrata" />
+      <recent name="org.example.pedido" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PedidoTest">
+    <configuration name="FabricaHamburguerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstractFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.fabricaAbstrata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.fabricaAbstrata" />
+      <option name="MAIN_CLASS_NAME" value="org.example.fabricaAbstrata.FabricaHamburguerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoFabricaSanduicheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstractFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.fabricaAbstrata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.fabricaAbstrata" />
+      <option name="MAIN_CLASS_NAME" value="org.example.fabricaAbstrata.PedidoFabricaSanduicheTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="abstractFactory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.pedido.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.pedido" />
+      <option name="MAIN_CLASS_NAME" value="org.example.pedido.PedidoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PedidoTest" />
+        <item itemvalue="JUnit.PedidoFabricaSanduicheTest" />
+        <item itemvalue="JUnit.FabricaHamburguerTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,22 +143,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725472621486</updated>
-      <workItem from="1725472622544" duration="2000" />
+      <workItem from="1725472622544" duration="5819000" />
+      <workItem from="1725487977930" duration="24000" />
+      <workItem from="1726080420631" duration="335000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
